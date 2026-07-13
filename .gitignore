@@ -2,3 +2,5 @@
 !.gitignore
 !notebook.ipynb
 !README.md
+!*.png
+*.pth
